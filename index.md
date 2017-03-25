@@ -8,15 +8,21 @@
 nav {
   background-color: green;
   height: 50px;
+  
 }
 nav ul {
+
 
 }
 nav ul li {
    list-style-type: none;
    width: 150px;
-   float: left;
-  
+   float: left; 
+}
+li a {
+    text-decoration: none;
+    color: white;
+    line-height: 50px;
 }
 </style>
 <nav>
