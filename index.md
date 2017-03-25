@@ -4,12 +4,12 @@
 <title>Livin Life</title>
 </head>
 <body>
-
 <ul>
-<li><a href="default.asp">Home</a></li>
-<li><a href="what.asp">Idk what this is</a></li>
-<li><a href="Signin.asp">Sign in</a></li>
-<li><a href="Signup.asp">Sign up</a></li>
+<li><a href="#home">Home</a></li>
+<li><a href="#what">Idk what this is</a></li>
+<li><a href="#signin">Sign in</a></li>
+<li><a href="signup">Sign up</a></li>
+<li style="float:right"><a class="active" href="#about">About</a></li>
 
 
 <h1>Sign in</h1>
