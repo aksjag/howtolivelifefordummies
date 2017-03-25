@@ -6,7 +6,7 @@
 <body>
 <style>
 nav {
-  background-color: light green;
+  background-color: green;
   height: 50px;
 }
 nav ul {
