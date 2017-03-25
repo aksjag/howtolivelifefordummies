@@ -12,7 +12,7 @@
 <input>
 <button>Sign in</button>
 
-<h2>Or sign up for a free account today!</h2>
+<h2>Don't have one? Sign up for a free account today!</h2>
 <p>Name</p>
 <input>
 <p>Email</p>
