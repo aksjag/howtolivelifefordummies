@@ -9,12 +9,17 @@
 <p>Username</p>
 <input>
 <p>Password</p>
+<input>
 
-<h2>Or sign up for a free account</h2>
+<h2>Or sign up for a free account today!</h2>
 <p>Name</p>
+<input>
 <p>Email</p>
+<input>
 <p>Gender</p>
+<input>
 <p>Age</p>
+<input>
 <p>Continue</p>
 
 </body>
