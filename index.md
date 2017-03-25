@@ -10,6 +10,11 @@
 <p>Password</p>
 
 <h2>Or sign up for a free account</h2>
+<p>Name</p>
+<p>Email</p>
+<p>Gender</p>
+<p>Age</p>
+<p>Continue</p>
 
 </body>
 </html>
