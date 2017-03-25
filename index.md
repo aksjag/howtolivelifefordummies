@@ -6,7 +6,7 @@
 <body>
 <style>
 nav {
-  background-color: green;
+  background-color: pink;
   height: 50px;
   
 }
