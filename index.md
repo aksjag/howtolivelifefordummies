@@ -20,8 +20,7 @@
 <input>
 <p>Age</p>
 <input>
-<button>
-<p>Continue</p>
+<button>Continue</button>
 
 </body>
 </html>
