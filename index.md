@@ -10,6 +10,7 @@
 <input>
 <p>Password</p>
 <input>
+<button>Sign in</button>
 
 <h2>Or sign up for a free account today!</h2>
 <p>Name</p>
