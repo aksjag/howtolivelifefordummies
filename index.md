@@ -4,12 +4,29 @@
 <title>Livin Life</title>
 </head>
 <body>
+<style>
+nav {
+  background-color: purple;
+  height: 50px;
+}
+nav ul {
+
+}
+nav ul li {
+   list-style-type: none;
+   width: 150px;
+   float: left;
+  
+}
+</style>
+<nav>
 <ul>
 <li><a href="#home">Home</a></li>
 <li><a href="#what">Idk what this is</a></li>
 <li><a href="#signin">Sign in</a></li>
 <li><a href="signup">Sign up</a></li>
-<li style="float:right"><a class="active" href="#about">About</a></li>
+</ul>
+</nav>
 
 
 <h1>Sign in</h1>
