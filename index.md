@@ -9,11 +9,11 @@ You can use the [editor on GitHub](https://github.com/aksjag/howtolivelifefordum
 </head>
 <body>
 
-<h1>Login</h1>
+<h1>Sign in</h1>
 <p>Username</p>
 <p>Password</p>
 
-<h2>Or reg
+<h2>Or sign up for a free account</h2>
 
 </body>
 </html>
