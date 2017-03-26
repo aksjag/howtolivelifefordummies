@@ -2,36 +2,61 @@
 <html>
 <head>
 <style>
-* {
-    padding: 0;
-    margin: 0;
-}
-nav {
-    background-color: light green;
-    height: 50px;
-}
-nav ul {
-    border: 1px solid red;
-    height: 50px;
-    width: 450px;
+.nav {
+    list-style: none;
+    text-align: right;
+    padding: 1.3%;
+    position: fixed;
+    width: 100%;
+    z-index: 20;
 
 }
-nav ul li {
-      list-style-type: none;
-      width: 150px;
-      float: left;
-      border-right: 1px solid #CCC;
- 
+
+/* Option 1 - Display Inline */
+.nav li {
+    display: inline-block;
+    font-size: 150%;
+    margin-right: 3%;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 100;
+
 }
-li a {
+
+.nav a {
     text-decoration: none;
-    color: blue;
-    line-height: 50px;
+    color: #fff;
     display: block;
+    transition: .3s background-color;
+    -webkit-transition: font-size ease 2s;
+    -moz-transition: font-size ease 2s;
+    -o-transition: font-size ease 2s;
+    text-decoration: none;
+    position: relative;
+    color: #ffffff;
 }
-li a:hover {
-   background-color: yellow;
-   color: green;
+
+.nav a:hover:after {
+    width: 100%;
+    font-size: 109%;
+}
+
+
+.nav a:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0%;
+    border-bottom: 3px solid #32CD32;
+    transition: 0.4s;
+}
+
+nav.navbar {
+    background: #ffffff;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+
+}
    
 
 </style>
