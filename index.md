@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+ul {
+float:left;
+}
+
+</style>
 <title>Livin Life</title>
 </head>
 <body>
