@@ -37,6 +37,8 @@ header::after {
  display: inline-block;
  margin-left: 70px;
  padding-top: 23px; 
+ 
+ position: relative;
  }
  
  nav a {
@@ -47,7 +49,16 @@ header::after {
  }
  
  nav a:hover {
- color: #000;
+ }
+ 
+ nav a:before {
+ content: '';
+ display bloack;
+ height: 5px;
+ width: 100%;
+ background-color: #444;
+ }
+ 
 
 a:link,a:visited{
 display:block;
