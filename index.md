@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head>Welcome!</head>
-<body>
+<head>
 <style>
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-
 a {
     display: block;
     width: 120px;
@@ -20,10 +18,8 @@ a {
     text-transfform: uppercase;
     padding: 5px;
 }
-</body>
 </style>
-<title>Livin Life</title>
-
+</head>
 <body>
 <div class="nav_bar">
 <ul>
