@@ -68,4 +68,15 @@ a:hover, a:active {
     </body>
     </html>
 
+<a href ="./about.html">
+<head>
+About How to Live Life for Dummies
+</head>
+<body>
+<p>This websie is dedicated to teach you simple tasks that you should know, without a hassle.</p>
+</body>
+
+
+
+
 
