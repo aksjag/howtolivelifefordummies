@@ -18,6 +18,9 @@ a {
     text-transfform: uppercase;
     padding: 5px;
 }
+a:hover, a:active {
+	background-color: green;
+}
 </style>
 </head>
 <body>
