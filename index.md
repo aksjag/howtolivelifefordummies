@@ -71,9 +71,8 @@ nav.navbar {
 <li><a href="/register">Register</a></li>
 </ul>
 </div>
-</html>
 
-<html>
+<a href = "Login">
 <head>
 <title>Login</title>
 Log in
@@ -85,7 +84,6 @@ Log in
 <input>
 <button>Log in</button>
 </body>
-</html>
 
 
 
