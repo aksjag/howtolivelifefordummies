@@ -7,6 +7,10 @@ ul {
     margin: 0;
     padding: 0;
 }
+li {
+    float: left;
+}
+
 a:link, a:visited {
     display: block;
     width: 120px;
