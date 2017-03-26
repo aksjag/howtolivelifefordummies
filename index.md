@@ -70,6 +70,7 @@ a:hover, a:active {
     </body>
     
 
+<a href ="./about.html">
 <head>
 About How to Live Life for Dummies
 </head>
