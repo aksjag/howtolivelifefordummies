@@ -73,7 +73,7 @@ a:hover, a:active {
 About How to Live Life for Dummies
 </head>
 <body>
-<p>This websie is dedicated to teach you simple tasks that you should know, without a hassle.</p>
+<p>Do you need help with some of the most basic tasks? Need some help with a simple recipe when you actually have to cook for once? How about braiding your hair, crochet or tying a tie? No worries, How to Live Life for Dummies has got your back! This website is dedicated to teaching you simple tasks that you should know, without a hassle.</p>
 </body>
 
 
