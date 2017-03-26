@@ -7,11 +7,7 @@ ul {
     margin: 0;
     padding: 0;
 }
-
-li {
-	display: inline;
-}
-a {
+a:link, a:visited {
     display: block;
     width: 120px;
     background-color: yellowgreen;
