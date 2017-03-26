@@ -2,6 +2,10 @@
 <html>
 <head>
 <style>
+* {
+    padding: 0;
+    margin: 0;
+}
 nav {
     background-color: light green;
     height: 50px;
@@ -21,6 +25,11 @@ li a {
     color: blue;
     line-height: 50px;
     display: block;
+}
+li a:hover {
+   background-color: yellow;
+   color: green;
+   
 
 </style>
 <title>Livin Life</title>
