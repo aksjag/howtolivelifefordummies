@@ -19,7 +19,7 @@ a:link, a:visited {
     text-decoration: none;
     text-align: center;
     font-weight: bold;
-    text-transfform: uppercase;
+    text-transform: uppercase;
     padding: 5px;
 }
 a:hover, a:active {
