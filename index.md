@@ -44,12 +44,22 @@ a:hover, a:active {
 Log in
 </head>
 <body>
+   
+   <div class="form-input">
+   <input type="password" placeholder="Enter Password">
+   </div>
 <p>Username</p>
-<input>
+<div class="container">
+   <form>
+   <div class="form-input">
+<input type="text" placeholder= "Enter Username">
+</div>
 <p>Password</p>
-<input>
+<div class="container">
+<form>
+<div class="form-input">
+<input type="text" placeholder= "Enter Password">
 <button>Log in</button>
-</body>
 
 <html>
 <head>
