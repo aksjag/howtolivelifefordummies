@@ -15,6 +15,9 @@ a {
     color: white;
     text-decoration: none;
     text-align: center;
+    font-weight: bold;
+    text-transfform: uppercase;
+    padding: 5px;
 }
 </style>
 <title>Livin Life</title>
