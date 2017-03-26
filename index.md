@@ -37,13 +37,25 @@ a:hover, a:active {
 </div>
 </body>
 
-
+<body>
 <h1>Login</h1>
+<div id="wrapper">
+   <form method="POST" action="index.php" onsubmit="return Validate()" name="vform">
+        <div>
 <p>Username</p>
-<input type="text" id="username" placeholder="Username">
+<div>
+<input type "text" name="username" class="textInput" placeholder="Username">
+<div id="name_error" class="val_error"></div>
+</div>
 <p>Password</p>
-<input type="password" id="password" placeholder="Password">
+<div>
+<input type="password" name="password" class="textInput" placeholder="Password">
+</div>
+<div>
+<input type="submit" value="Register" class="btn" name="register">
+</div>
 <button>Log in</button>
+
 
 <h2>Don't have one? Sign up for a free account today!</h2>
 <link rel="stylesheet" type="text/css" href="css/style.css">
