@@ -37,16 +37,12 @@ a:hover, a:active {
 </div>
 </body>
 
-<center>
+
 <h1>Login</h1>
-</center>
 <p>Username</p>
-<center>
-<input type="text" id="username" placeholder="Username"><br/>
-<input type="password" id="password" placeholder="Password"><br/>
-input type="button" value="Log on" onClick="clicked()">
-</center>
-<script type="text/Javascript" src="js/main.js">
+<input type="text" id="username" placeholder="Username">
+<input type="password" id="password" placeholder="Password">
+<input type="button" value="Log on" onClick="clicked()">
 <p>Password</p>
 <input>
 <button>Log in</button>
