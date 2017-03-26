@@ -41,9 +41,8 @@ a:hover, a:active {
 <h1>Login</h1>
 <p>Username</p>
 <input type="text" id="username" placeholder="Username">
-<input type="password" id="password" placeholder="Password">
 <p>Password</p>
-<input>
+<input type="password" id="password" placeholder="Password">
 <button>Log in</button>
 
 <h2>Don't have one? Sign up for a free account today!</h2>
