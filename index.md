@@ -111,14 +111,6 @@ Log in
     </body>
     </html> 
 
-
-<h1>Log in</h1>
-<p>Username</p>
-<input>
-<p>Password</p>
-<input>
-<button>Log in</button>
-
 <h2>Don't have one? Sign up for a free account today!</h2>
 <p>Name</p>
 <input>
