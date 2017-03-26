@@ -68,13 +68,13 @@ a:hover, a:active {
     </body>
     </html>
 
-<!DOCTYPE html>
-<html>
-    <body>
-    <h1>About How to Live Life for Dummies</h1>
-</body>
+<a href ="./about.html">
+<head>
+About How to Live Life for Dummies
+</head>
+<body>
 <p>This websie is dedicated to teach you simple tasks that you should know, without a hassle.</p>
-</html>
+</body>
 
 
 
