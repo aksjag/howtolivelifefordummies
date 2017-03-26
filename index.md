@@ -22,32 +22,8 @@ li a {
 }
 
 li a:hover {
+    background-color: #111;
 }
-
-.nav a:hover:after {
-    width: 100%;
-    font-size: 109%;
-}
-
-
-.nav a:after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 0%;
-    border-bottom: 3px solid #32CD32;
-    transition: 0.4s;
-}
-
-nav.navbar {
-    background: #ffffff;
-    -webkit-transition: all 0.4s ease;
-    transition: all 0.4s ease;
-
-}
-   
-
 </style>
 <title>Livin Life</title>
 </head>
