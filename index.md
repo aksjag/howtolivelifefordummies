@@ -3,12 +3,49 @@
 <head>
 <style type="text/css">
 
-ul {
-list-style-type:none;
+body {
+
 margin:0;
-padding:0;
+background: #222;
+font-family: "Work Sans", sans-serif;
+font-weight: 300;
 overflow:hidden;
 }
+
+.container {
+width: 80%;
+margin: 0 auto;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+ }
+ 
+ nav {
+ float.right;
+ }
+ 
+ nav ul {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+ }
+ 
+ nav li {
+ display: inline-block;
+ margin-left: 70px;
+ padding-top: 23px; 
+ }
+ 
+ nav a {
+ color: #444;
+ text-decoration: none;
+ text-transform: uppercase;
+ }
+ 
+ 
 
 a:link,a:visited{
 display:block;
