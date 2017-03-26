@@ -1,84 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style type="text/css">
-
-body {
-
-margin:0;
-font-family: "Work Sans", sans-serif;
-font-weight: 400;
-overflow:hidden;
+<style>
+nav {
+    background-color: light green;
+    height: 50px;
 }
+nav ul {
 
-.container {
-width: 80%;
-margin: 0 auto;
 }
+nav ul li {
+      list-style-type: none;
+      width: 150px;
+      float: left;
+      border-right: 1px solid #CCC;
+ 
+}
+li a {
+    text-decoration: none;
+    color: blue;
+    line-height: 50px;
+    display: block;
 
-header::after {
-  content: '';
-  display: table;
-  clear: both;
- }
- 
- nav {
- float.right;
- }
- 
- nav ul {
- margin: 0;
- padding: 0;
- list-style: none;
- }
- 
- nav li {
- display: inline-block;
- margin-left: 70px;
- padding-top: 23px; 
- 
- position: relative;
- }
- 
- nav a {
- color: #444;
- text-decoration: none;
- text-transform: uppercase;
- font-size: 14px;
- }
- 
- nav a:hover {
- }
- 
- nav a:before {
- content: '';
- display bloack;
- height: 5px;
- width: 100%;
- background-color: #444;
- 
- position: absolute;
- top: 0;
- width: 0%;
- 
- transition: all ease-in-out 250ms;
- }
- 
- nav a:hover::before {
- width: 100%;
- }
- 
-
-a:link,a:visited{
-display:block;
-front-weight:bold;
-color:#FFFFFF;
-background-color:#98bf21;
-width:120px
-}
-li {
-float.left;
-}
 </style>
 <title>Livin Life</title>
 </head>
