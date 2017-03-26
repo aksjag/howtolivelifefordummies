@@ -44,6 +44,7 @@ a:hover, a:active {
 <p>Password</p>
 <input type="password" id="password" placeholder="Password">
 <button>Log in</button>
+</body>
 
 <h2>Don't have one? Sign up for a free account today!</h2>
 <link rel="stylesheet" type="text/css" href="css/style.css">
