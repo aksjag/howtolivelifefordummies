@@ -3,36 +3,25 @@
 <head>
 <style>
 .nav {
-    list-style: none;
-    text-align: right;
-    padding: 1.3%;
-    position: fixed;
-    width: 100%;
-    z-index: 20;
-
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
-/* Option 1 - Display Inline */
-.nav li {
+li {
+    float: left;
+}
+
+li a {
     display: inline-block;
-    font-size: 150%;
-    margin-right: 3%;
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: 100;
-
+    color: light green;
+    text-align: center;
+    padding: 14px, 16px;
+    text-decoration: none;
 }
 
-.nav a {
-    text-decoration: none;
-    color: #fff;
-    display: block;
-    transition: .3s background-color;
-    -webkit-transition: font-size ease 2s;
-    -moz-transition: font-size ease 2s;
-    -o-transition: font-size ease 2s;
-    text-decoration: none;
-    position: relative;
-    color: #ffffff;
+li a:hover {
 }
 
 .nav a:hover:after {
