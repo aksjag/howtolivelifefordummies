@@ -4,28 +4,6 @@
 <title>Livin Life</title>
 </head>
 <body>
-<style>
-nav {
-  background-color: 5cd65c;
-  height: 50px;
-  
-}
-nav ul {
-
-
-}
-nav ul li {
-   list-style-type: none;
-   width: 150px;
-   float: left; 
-}
-li a {
-    text-decoration: none;
-    color: white;
-    line-height: 50px;
-}
-</style>
-<nav>
    <div class="nav_bar">
 <ul>
 <li><a href="home.html">Home</a></li>
@@ -34,8 +12,6 @@ li a {
 <li><a href="signup.html">Sign up</a></li>
 </ul>
 </div>
-</nav>
-
 
 <h1>Sign in</h1>
 <p>Username</p>
