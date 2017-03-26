@@ -8,7 +8,7 @@ body {
 margin:0;
 background: #222;
 font-family: "Work Sans", sans-serif;
-font-weight: 300;
+font-weight: 400;
 overflow:hidden;
 }
 
@@ -43,9 +43,11 @@ header::after {
  color: #444;
  text-decoration: none;
  text-transform: uppercase;
+ font-size: 14px;
  }
  
- 
+ nav a:hover {
+ color: #000;
 
 a:link,a:visited{
 display:block;
