@@ -42,7 +42,6 @@ a:hover, a:active {
 <p>Username</p>
 <input type="text" id="username" placeholder="Username">
 <input type="password" id="password" placeholder="Password">
-<input type="button" value="Log on" onClick="clicked()">
 <p>Password</p>
 <input>
 <button>Log in</button>
