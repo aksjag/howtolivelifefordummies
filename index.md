@@ -1,11 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
+<style type="text/css">
+
 ul {
-float:left;
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
 }
 
+a:link,a:visited{
+display:block;
+front-weight:bold;
+color:#FFFFFF;
+background-color:#98bf21;
+width:120px
+}
+li {
+float.left;
+}
 </style>
 <title>Livin Life</title>
 </head>
