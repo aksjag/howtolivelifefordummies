@@ -37,7 +37,7 @@ a:hover, a:active {
 </div>
 </body>
 
-<h2>Log in</h2>
+<head>Log in</head>
 <p>Username</p>
 <input>
 <p>Password</p>
