@@ -36,8 +36,8 @@ a:hover, a:active {
 <li><a href="./register.html">Register</a></li>
 </ul>
 </div>
-
 </body>
+
 <a href = "login.html">
 <head>
 <title>Login</title>
