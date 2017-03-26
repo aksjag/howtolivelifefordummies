@@ -39,23 +39,11 @@ a:hover, a:active {
 
 <body>
 <h1>Login</h1>
-<div id="wrapper">
-   <form method="POST" action="index.php" onsubmit="return Validate()" name="vform">
-        <div>
 <p>Username</p>
-<div>
-<input type "text" name="username" class="textInput" placeholder="Username">
-<div id="name_error" class="val_error"></div>
-</div>
+<input type="text" id="username" placeholder="Username">
 <p>Password</p>
-<div>
-<input type="password" name="password" class="textInput" placeholder="Password">
-</div>
-<div>
-<input type="submit" value="Register" class="btn" name="register">
-</div>
+<input type="password" id="password" placeholder="Password">
 <button>Log in</button>
-
 
 <h2>Don't have one? Sign up for a free account today!</h2>
 <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -88,8 +76,4 @@ About How to Live Life for Dummies
 <body>
 <p>Do you need help with some of the most basic tasks? Need some help with a simple recipe when you actually have to cook for once? How about braiding your hair, crochet or tying a tie? No worries, How to Live Life for Dummies has got your back! This website is dedicated to teaching you simple tasks that you should know, without a hassle. Create a free account, and everyday, we'll give you a brand new lesson about a task and an enlightening fact of the day! We guarantee that you'll have a fresh perspective on life, or your money back!</p>
 </body>
-
-
-
-
 
