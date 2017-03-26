@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head>Welcome!</head>
 <body>
 <style>
 ul {
@@ -20,6 +20,8 @@ a {
     text-transfform: uppercase;
     padding: 5px;
 }
+</body>
+</style>
 <title>Livin Life</title>
 
 <body>
