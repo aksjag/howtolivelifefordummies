@@ -2,27 +2,19 @@
 <html>
 <head>
 <style>
-.nav {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
 }
 
-li {
-    float: left;
-}
-
-li a {
-    display: inline-block;
-    color: light green;
-    text-align: center;
-    padding: 14px, 16px;
+a {
+    display: block;
+    width: 120px;
+    background-color: yellowgreen;
+    color: white;
     text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111;
+    text-align: center;
 }
 </style>
 <title>Livin Life</title>
