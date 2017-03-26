@@ -38,29 +38,6 @@ a:hover, a:active {
 </div>
 </body>
 
-<a href = "login.html">
-<head>
-<title>Login</title>
-Log in
-</head>
-<body>
-   
-   <div class="form-input">
-   <input type="password" placeholder="Enter Password">
-   </div>
-<p>Username</p>
-<div class="container">
-   <form>
-   <div class="form-input">
-<input type="text" placeholder= "Enter Username">
-</div>
-<p>Password</p>
-<div class="container">
-<form>
-<div class="form-input">
-<input type="text" placeholder= "Enter Password">
-<button>Log in</button>
-
 <html>
 <head>
    <title></title>
@@ -109,7 +86,14 @@ Log in
     </form>
     </div>
     </body>
-    </html> 
+    </html>
+
+<h1>Log in</h1>
+<p>Username</p>
+<input>
+<p>Password</p>
+<input>
+<button>Log in</button>
 
 <h2>Don't have one? Sign up for a free account today!</h2>
 <p>Name</p>
