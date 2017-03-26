@@ -37,14 +37,14 @@ a:hover, a:active {
 </div>
 </body>
 
-<head>Log in</head>
+<h1>Log in</h1>
 <p>Username</p>
 <input>
 <p>Password</p>
 <input>
 <button>Log in</button>
 
-<h3>Don't have one? Sign up for a free account today!</h3>
+<h2>Don't have one? Sign up for a free account today!</h2>
 <link rel="stylesheet" type="text/css" href="css/style.css">
    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
  <body>
