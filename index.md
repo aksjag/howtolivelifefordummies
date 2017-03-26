@@ -65,7 +65,7 @@ nav.navbar {
 <body>
 <div class="nav_bar">
 <ul>
-<li><a href="/">Home</a></li>
+<li><a href="/howtolivelifefordummies">Home</a></li>
 <li><a href="/about">About</a></li>
 <li><a href="#">Log in</a></li>
 <li><a href="#">Register</a></li>
