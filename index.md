@@ -11,6 +11,9 @@ nav {
     height: 50px;
 }
 nav ul {
+    border: 1px solid red;
+    height: 50px;
+    width: 450px;
 
 }
 nav ul li {
