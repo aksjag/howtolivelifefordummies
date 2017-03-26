@@ -39,7 +39,7 @@ a:hover, a:active {
 </body>
 
 <html>
-<head>Don't have an account? Sign up for a free account today!</head>
+<h1>Don't have an account? Sign up for a free account today!</h1>
 	<title></title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
@@ -64,14 +64,14 @@ a:hover, a:active {
     </body>
     </html>
 
-<h1>Log in</h1>
+<h2>Log in</h2>
 <p>Username</p>
 <input>
 <p>Password</p>
 <input>
 <button>Log in</button>
 
-<h2>Don't have one? Sign up for a free account today!</h2>
+<h3>Don't have one? Sign up for a free account today!</h3>
 <p>Name</p>
 <input>
 <p>Email</p>
