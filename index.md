@@ -73,7 +73,7 @@ a:hover, a:active {
 <h3>
 About How to Live Life for Dummies
 </h3>
-<p>Do you need help with some of the most basic tasks? Need some help with a simple recipe when you actually have to cook for once? How about braiding your hair, crochet or tying a tie? No worries, How to Live Life for Dummies has got your back! This website is dedicated to teaching you simple tasks that you should know, without a hassle. Create a free account, and everyday, we'll give you a brand new lesson about a task and an enlightening fact of the day! We guarantee that you'll have a fresh perspective on life, or your money back!</p>
+<p>Do you need help with some of the most basic tasks? No worries, How to Live Life for Dummies has got your back! This website is dedicated to teaching you simple tasks that you should know, without a hassle. Create a free account, and everyday, we'll give you a brand new lesson about a task and an enlightening fact of the day! We guarantee that you'll have a fresh perspective on life, or your money back!</p>
 
 <a href="./contact.html">
 <h4>
