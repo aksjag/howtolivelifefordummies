@@ -37,30 +37,6 @@ a:hover, a:active {
 </div>
 </body>
 
-<html>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-   <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
- <body>
-    <div class="container">
-    <form>
-    <div class="form-input">
-    <input type="text" name="First Name" placeholder= "Enter First Name">
-    </div>
-    <div class="form-input">
-    <input type="text" name="Last Name" placeholder= "Enter Last Name">
-    </div>
-    <div class="form-input">
-      <input type="Gender" name="Gender" placeholder= "Gender">
-      </div>
-    <div class="form-input">
-      <input type="Age" name="Age" placeholder= "Age">
-      </div>
-      <button>Sign up</button>
-    </form>
-    </div>
-    </body>
-    </html>
-
 <h2>Log in</h2>
 <p>Username</p>
 <input>
