@@ -66,14 +66,26 @@ nav.navbar {
 <div class="nav_bar">
 <ul>
 <li><a href="/howtolivelifefordummies">Home</a></li>
-<li><a href="/about">About</a></li>
+<li><a href="/github.io/login">About</a></li>
 <li><a href="/login">Log in</a></li>
 <li><a href="/register">Register</a></li>
 </ul>
 </div>
+</html>
 
-<a href="about.html" target="_self">Link to About Page</a>
-<h>About</h>
+<html>
+<head>
+<title>Login</title>
+Log in
+</head>
+<body>
+<p>Username</p>
+<input>
+<p>Password</p>
+<input>
+<button>Log in</button>
+</body>
+</html>
 
 
 
