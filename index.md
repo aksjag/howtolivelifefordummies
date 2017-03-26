@@ -7,6 +7,10 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+li {
+	display: inline;
+}
 a {
     display: block;
     width: 120px;
