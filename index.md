@@ -48,7 +48,7 @@ Log in
 <html>
 <head>
    <title></title>
-   <link rel="stylesheet" type="text/css" href="css/style.css"></link>
+   <link rel="stylesheet" type="text/css" href="css/style.css">
    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
  </head>
  <body>
@@ -57,7 +57,7 @@ Log in
     <div class="form-input">
     <input type="text" name="username" placeholder= "Enter Username"> 
     </div>
-    <div class+"form-input">
+    <div class="form-input">
       <input type="password"
       name="password" placeholder="Enter Password">
       </div>
@@ -71,7 +71,7 @@ Log in
 <html>
 <head>
 	<title></title>
-	<link rel="stylesheet" type="text/css" href="css/style.css"></link>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
  </head>
  <body>
