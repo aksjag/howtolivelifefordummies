@@ -72,6 +72,10 @@ nav.navbar {
 </ul>
 </div>
 
+<a href="about.html" target="_self">Link to About Page</a>
+<h>About</h>
+
+
 
 
 <h1>Log in</h1>
