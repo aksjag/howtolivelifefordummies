@@ -38,12 +38,12 @@ li a:hover {
 <title>Livin Life</title>
 </head>
 <body>
-   <div class="nav_bar">
+<div class="nav_bar">
 <ul>
-<li><a href="home.html">Home</a></li>
-<li><a href="about.html">About</a></li>
-<li><a href="signin.html">Log in</a></li>
-<li><a href="signup.html">Register</a></li>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Log in</a></li>
+<li><a href="#">Register</a></li>
 </ul>
 </div>
 
