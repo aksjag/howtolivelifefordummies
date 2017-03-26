@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<body>
 <style>
 ul {
     list-style-type: none;
@@ -19,9 +20,8 @@ a {
     text-transfform: uppercase;
     padding: 5px;
 }
-</style>
 <title>Livin Life</title>
-</head>
+
 <body>
 <div class="nav_bar">
 <ul>
@@ -32,6 +32,7 @@ a {
 </ul>
 </div>
 
+</body>
 <a href = "login.html">
 <head>
 <title>Login</title>
