@@ -71,6 +71,8 @@ a:hover, a:active {
     
 
 <a href ="./about.html">
+li {
+	float: left;
 <head>
 About How to Live Life for Dummies
 </head>
