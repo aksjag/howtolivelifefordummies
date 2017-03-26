@@ -39,11 +39,10 @@ a:hover, a:active {
 </body>
 
 <html>
-<head>
+<head>Don't have an account? Sign up for a free account today!</head>
 	<title></title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
- </head>
  <body>
     <div class="container">
     <form>
