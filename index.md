@@ -32,8 +32,8 @@ a:hover, a:active {
 <ul>
 <li><a href="/howtolivelifefordummies">Home</a></li>
 <li><a href="./about.html">About</a></li>
-<li><a href="./login.html">Log in</a></li>
-<li><a href="./register.html">Register</a></li>
+<li><a href="./contact.html">Contact</a></li>
+<li><a href="./dailyfact.html">Why</a></li>
 </ul>
 </div>
 </body>
