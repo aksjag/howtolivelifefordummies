@@ -6,7 +6,6 @@
 body {
 
 margin:0;
-background: #222;
 font-family: "Work Sans", sans-serif;
 font-weight: 400;
 overflow:hidden;
