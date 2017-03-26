@@ -74,7 +74,55 @@ Log in
 <button>Log in</button>
 </body>
 
+<html>
+<head>
+   <title></title>
+   <link rel="stylesheet" type="text/css" href="css/style.css"></link>
+   <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+ </head>
+ <body>
+    <div class="container">
+    <form>
+    <div class="form-input">
+    <input type="text" name="username" placeholder= "Enter Username"> 
+    </div>
+    <div class+"form-input">
+      <input type="password"
+      name="password" placeholder="Enter Password">
+      </div>
+      <input type="submit" name="submit" 
+      value="LOGIN" class="btn-login">
+    </form>
+    </div>
+    </body>
+    </html>
 
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/style.css"></link>
+   <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+ </head>
+ <body>
+    <div class="container">
+    <form>
+    <div class="form-input">
+    <input type="text" name="First Name" placeholder= "Enter First Name">
+    </div>
+    <div class="form-input">
+    <input type="text" name="Last Name" placeholder= "Enter Last Name">
+    </div>
+    <div class="form-input">
+      <input type="Gender" name="Gender" placeholder= "Gender">
+      </div>
+    <div class="form-input">
+      <input type="Age" name="Age" placeholder= "Age">
+      </div>
+      <button>Sign up</button>
+    </form>
+    </div>
+    </body>
+    </html> 
 
 
 <h1>Log in</h1>
