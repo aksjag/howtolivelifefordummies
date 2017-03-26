@@ -26,12 +26,14 @@ li a {
 }
 </style>
 <nav>
+   <div class="nav_bar">
 <ul>
-<li><a href="#home">Home</a></li>
-<li><a href="#what">Idk what this is</a></li>
-<li><a href="#signin">Sign in</a></li>
-<li><a href="signup">Sign up</a></li>
+<li><a href="home.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="signin.html">Sign in</a></li>
+<li><a href="signup.html">Sign up</a></li>
 </ul>
+</div>
 </nav>
 
 
