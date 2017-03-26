@@ -56,6 +56,16 @@ header::after {
  height: 5px;
  width: 100%;
  background-color: #444;
+ 
+ position: absolute;
+ top: 0;
+ width: 0%;
+ 
+ transition: all ease-in-out 250ms;
+ }
+ 
+ nav a:hover::before {
+ width: 100%;
  }
  
 
