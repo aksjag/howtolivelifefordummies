@@ -144,5 +144,3 @@ Log in
 <button>Continue</button>
 
 
-</body>
-</html>
